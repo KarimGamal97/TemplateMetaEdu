@@ -10035,3 +10035,54 @@ label {
 -------------------------------------------------------------------------------*/
 
 /*# sourceMappingURL=main.css.map */
+
+.footer-img {
+  background: #d5e1e6;
+}
+.mega-footer {
+  padding: 30px 0 60px;
+  background-color: #464646;
+  color: #fff;
+}
+
+.footer-logo img {
+  max-height: 42px;
+}
+.footer-heading {
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+footer {
+  background-color: #113143;
+  color: #fff;
+  padding: 10px 0;
+}
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-box ul {
+  line-height: 30px;
+}
+.footer-box ul li a {
+  color: #fff !important;
+}
+.footer-box ul li a i {
+  color: var(--pc);
+  margin-left: 10px;
+}
+
+.footer-contact i {
+  width: 18px;
+  margin-left: 10px;
+  color: var(--pc);
+  text-align: center;
+}
+.my-btn {
+  background-color: #ff934b;
+  border: none;
+  padding: 5px;
+  width: 70px;
+  border-radius: 6px;
+}
