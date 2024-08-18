@@ -10041,7 +10041,7 @@ label {
 }
 .mega-footer {
   padding: 30px 0 60px;
-  background-color: #464646;
+  background-color: #245d51;
   color: #fff;
 }
 
@@ -10080,9 +10080,10 @@ footer {
   text-align: center;
 }
 .my-btn {
-  background-color: #ff934b;
+  background-color: #ff4e59;
   border: none;
   padding: 5px;
-  width: 70px;
+  width: 80px;
   border-radius: 6px;
+  color: #fff;
 }
